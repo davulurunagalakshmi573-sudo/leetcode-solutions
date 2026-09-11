@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-valid-mountain-array](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
