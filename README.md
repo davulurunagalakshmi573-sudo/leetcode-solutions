@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Tree
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
