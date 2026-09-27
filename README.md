@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0046-permutations) |
 | [0941-valid-mountain-array](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
