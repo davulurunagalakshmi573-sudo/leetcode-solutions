@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0050-powx-n) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0046-permutations) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
