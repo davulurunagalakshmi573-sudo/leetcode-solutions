@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0066-plus-one) |
 | [0941-valid-mountain-array](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0066-plus-one) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
