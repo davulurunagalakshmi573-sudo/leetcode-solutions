@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
