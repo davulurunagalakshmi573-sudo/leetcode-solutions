@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0066-plus-one) |
 | [0941-valid-mountain-array](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
 | ------- |
@@ -104,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
