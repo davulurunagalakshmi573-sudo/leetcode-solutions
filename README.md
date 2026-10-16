@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0941-valid-mountain-array](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/davulurunagalakshmi573-sudo/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
